@@ -1,0 +1,86 @@
+{
+    "18760000001404536": {
+        "name": "Project 01",
+        "due_date": "2024-04-11T04:59:59Z",
+        "description": "Project 01 will come in two parts: (1) AWS setup, and (2) client-side development.\nPart 01 is now ready, details are available in this handout. It's a 25-page handout given the configuration steps, but a large part of the handout is screenshots. Note that Amazon details change all the time, so the screenshots you see may not match the handout exactly --- please let us know if there are any significant differences or steps where you aren't sure what to do.\nPart 02 is now released... Part 01 had you configure RDS and S3 in AWS, i.e. configure our server-side. In Part 02 we focus on the client-side, building a Python client to interact with RDS and S3 using Amazon's boto library. Details for part 02 in this handout.\nParts 01 and 02 are due Wednesday April 10th, with late submissions accepted no later than Friday April 12th.\u00a0",
+        "points": 100.0,
+        "course_id": 18760000000209140
+    },
+    "18760000001401668": {
+        "name": "Exam",
+        "due_date": "2024-05-16T16:00:00Z",
+        "description": "In-person, handwritten exam during class period. More details as we get closer.",
+        "points": 100.0,
+        "course_id": 18760000000209140
+    },
+    "18760000001401670": {
+        "name": "Final Project",
+        "due_date": "2024-06-01T04:59:59Z",
+        "description": "Final project, can be done in teams (max size of 3). More details will be published in a few weeks.",
+        "points": 100.0,
+        "course_id": 18760000000209140
+    },
+    "18760000001397681": {
+        "name": "PS1: The Relational Model",
+        "due_date": "2024-04-09T04:59:59Z",
+        "description": "This is an individual assignment. \u00a0Lab partners are only for the lab assignments.\ncs339-pset1.pdf\n\u00a0",
+        "points": 10.0,
+        "course_id": 18760000000208876
+    },
+    "18760000001405094": {
+        "name": "Assignment 1 : Search",
+        "due_date": "2024-04-11T04:59:59Z",
+        "description": "Hey Class,\n\u00a0\nHere is our first assignment. Please carefully read the README file for the assignment instructions.\n\u00a0\nSubmission deadline is 11:59 pm on April 10th (Wed.). You may make an additional submission if you need more time to get it working by Fri Apr 12 at noon. This additional submission will result in credit loss, and the ratio is TBD.\n\u00a0\nassignment-1-search.zip",
+        "points": 100.0,
+        "course_id": 18760000000208881
+    },
+    "18760000001387010": {
+        "name": "Descartes 3",
+        "due_date": "2024-04-09T16:00:00Z",
+        "description": "Descartes, Fifth Meditation, Sixth Meditation (i, 45-55);\nCorrespondence with Elizabeth;\nGalileo, The Assayer, \u201cCorpuscularianism\u201d (i, 8-11)\nQ: How does Descartes prove that the mind and the body are distinct?\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387028": {
+        "name": "Spinoza 1",
+        "due_date": "2024-04-11T16:00:00Z",
+        "description": "Baruch Spinoza, Ethics: Part i, Definitions, Axioms, Propositions 1-20 (i, 158-68)\nQ: How is God related to the rest of what exists?\n\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387029": {
+        "name": "Spinoza 2",
+        "due_date": "2024-04-16T16:00:00Z",
+        "description": "Spinoza, Ethics: Part i, Propositions 21-36, Appendix (i, 169-78);\nV.F. Cordova, How It Is, \u201cUsen: The Unidentifiable Is\"\nQ: Does God freely choose to create the world?\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387030": {
+        "name": "Spinoza 3",
+        "due_date": "2024-04-18T16:00:00Z",
+        "description": "Spinoza, Ethics: Part ii, Definitions, Axioms, Propositions 1-13, 35, 38-40 (i, 178-83, 192-5)\nQ: How are your mind and your body related, according to Spinoza?\n[Extra: Popular article on panpsychism. Spinoza has a complicated relationship with being Jewish; this article provides more information about what prompted his excommunication, and this video\u00a0is a reflection on how present-day Jewish philosophers think of him.]\n\u00a0\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387025": {
+        "name": "Malebranche",
+        "due_date": "2024-04-23T16:00:00Z",
+        "description": "Nicolas Malebranche, Search after Truth: iii.ii.6 (i, 220-2); vi.ii.3 (i, 225-33)\nQ: What are occasional causes--are they real causes?\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387020": {
+        "name": "Leibniz 1",
+        "due_date": "2024-04-25T16:00:00Z",
+        "description": "Gottfried Wilhelm Leibniz, Discourse on Metaphysics: 1-17, 33\u20137 (i, 234-45, 254\u20137)\nQ: What is the notion of an individual substance?\n\u00a0",
+        "points": 5.0,
+        "course_id": 18760000000209448
+    },
+    "18760000001387021": {
+        "name": "Leibniz 2",
+        "due_date": "2024-04-30T16:00:00Z",
+        "description": "Leibniz, The Principles of Philosophy, or, the Monadology (i, 285-93); \nThird & Fourth Letters to Clarke (i, 307-13)\n[Extra: Article by J.E.H. Smith on Leibniz and the Internet]\nNo reading report due.\n\u00a0",
+        "points": 0.0,
+        "course_id": 18760000000209448
+    }
+}
