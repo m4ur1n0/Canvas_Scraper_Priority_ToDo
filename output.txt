@@ -1,0 +1,67 @@
+{'id': 18760000001387020
+ 'description': '<p>Gottfried Wilhelm Leibniz
+ <em>Discourse on Metaphysics</em>: 1-17
+ 33–7 (i
+ 234-45
+ 254–7)</p>
+<p><strong>Q</strong>: What is the notion of an individual substance?</p>
+<p>&nbsp;</p>'
+ 'due_at': '2024-04-25T16:00:00Z'
+ 'unlock_at': None
+ 'lock_at': None
+ 'points_possible': 5.0
+ 'grading_type': 'points'
+ 'assignment_group_id': 18760000000365130
+ 'grading_standard_id': None
+ 'created_at': '2024-03-15T20:44:54Z'
+ 'updated_at': '2024-03-15T21:07:19Z'
+ 'peer_reviews': False
+ 'automatic_peer_reviews': False
+ 'position': 9
+ 'grade_group_students_individually': False
+ 'anonymous_peer_reviews': False
+ 'group_category_id': None
+ 'post_to_sis': False
+ 'moderated_grading': False
+ 'omit_from_final_grade': False
+ 'intra_group_peer_reviews': False
+ 'anonymous_instructor_annotations': False
+ 'anonymous_grading': False
+ 'graders_anonymous_to_graders': False
+ 'grader_count': 0
+ 'grader_comments_visible_to_graders': True
+ 'final_grader_id': None
+ 'grader_names_visible_to_final_grader': True
+ 'allowed_attempts': -1
+ 'annotatable_attachment_id': None
+ 'hide_in_gradebook': False
+ 'secure_params': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjEyZDgwNzJlLTkxYjgtNGY4Mi05N2YwLWExNTE0NTAwNzVmMyIsImx0aV9hc3NpZ25tZW50X2Rlc2NyaXB0aW9uIjoiXHUwMDNjcFx1MDAzZUdvdHRmcmllZCBXaWxoZWxtIExlaWJuaXosIFx1MDAzY2VtXHUwMDNlRGlzY291cnNlIG9uIE1ldGFwaHlzaWNzXHUwMDNjL2VtXHUwMDNlOiAxLTE3LCAzM-KAkzcgKGksIDIzNC00NSwgMjU04oCTNylcdTAwM2MvcFx1MDAzZVxuXHUwMDNjcFx1MDAzZVx1MDAzY3N0cm9uZ1x1MDAzZVFcdTAwM2Mvc3Ryb25nXHUwMDNlOiBXaGF0IGlzIHRoZSBub3Rpb24gb2YgYW4gaW5kaXZpZHVhbCBzdWJzdGFuY2U_XHUwMDNjL3BcdTAwM2Vcblx1MDAzY3BcdTAwM2VcdTAwMjZuYnNwO1x1MDAzYy9wXHUwMDNlIn0.wvVJ2RvwzJQ5HQ_6VSDTw_zLsGCXcj7-LKnfVrwaRmQ'
+ 'lti_context_id': '12d8072e-91b8-4f82-97f0-a151450075f3'
+ 'course_id': 18760000000209448
+ 'name': 'Leibniz 1'
+ 'submission_types': ['online_upload']
+ 'has_submitted_submissions': True
+ 'due_date_required': False
+ 'max_name_length': 255
+ 'in_closed_grading_period': False
+ 'graded_submissions_exist': False
+ 'is_quiz_assignment': False
+ 'can_duplicate': True
+ 'original_course_id': None
+ 'original_assignment_id': None
+ 'original_lti_resource_link_id': None
+ 'original_assignment_name': None
+ 'original_quiz_id': None
+ 'workflow_state': 'published'
+ 'important_dates': False
+ 'muted': True
+ 'html_url': 'https://canvas.instructure.com/courses/18760000000209448/assignments/1876~1387020'
+ 'published': True
+ 'only_visible_to_overrides': False
+ 'visible_to_everyone': True
+ 'locked_for_user': False
+ 'submissions_download_url': 'https://canvas.instructure.com/courses/1876~209448/assignments/1876~1387020/submissions?zip=1'
+ 'post_manually': True
+ 'anonymize_students': False
+ 'require_lockdown_browser': False
+ 'restrict_quantitative_data': False}
