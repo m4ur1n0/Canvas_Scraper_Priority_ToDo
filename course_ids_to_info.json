@@ -1,0 +1,144 @@
+{
+    "18760000000178372": {
+        "name": "2022FA_SPANISH_121-1_ALL_SECTIONS",
+        "assignment_ids": [],
+        "grade_values": [
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            18.0
+        ]
+    },
+    "18760000000201310": {
+        "name": "2023FA_MATH_230-1_ALL_SECTIONS",
+        "assignment_ids": [],
+        "grade_values": [
+            100.0,
+            30.0,
+            30.0,
+            30.0,
+            30.0,
+            30.0,
+            30.0,
+            30.0,
+            100.0,
+            100.0
+        ]
+    },
+    "18760000000191376": {
+        "name": "2023SP_MATH_220-2_ALL_SECTIONS",
+        "assignment_ids": [],
+        "grade_values": [
+            100.0,
+            30.0,
+            30.0,
+            30.0,
+            50.0,
+            30.0,
+            50.0,
+            85.0,
+            60.0,
+            100.0
+        ]
+    },
+    "18760000000191042": {
+        "name": "2023SP_SPANISH_121-3_ALL_SECTIONS",
+        "assignment_ids": [],
+        "grade_values": [
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "18760000000185459": {
+        "name": "2023WI_SPANISH_121-2_ALL_SECTIONS",
+        "assignment_ids": [],
+        "grade_values": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "18760000000209140": {
+        "name": "2024SP_COMP_SCI_310-0_SEC1 Scalable Software Architectures",
+        "assignment_ids": [
+            18760000001404536,
+            18760000001401668,
+            18760000001401670
+        ],
+        "grade_values": [
+            0,
+            0,
+            100.0,
+            100.0,
+            100.0
+        ]
+    },
+    "18760000000208876": {
+        "name": "2024SP_COMP_SCI_339-0_SEC1 Introduction to Database Systems",
+        "assignment_ids": [
+            18760000001397681
+        ],
+        "grade_values": [
+            10.0
+        ]
+    },
+    "18760000000208881": {
+        "name": "2024SP_COMP_SCI_348-0_SEC1 Introduction to Artificial Intelligence",
+        "assignment_ids": [
+            18760000001405094
+        ],
+        "grade_values": [
+            100.0
+        ]
+    },
+    "18760000000209448": {
+        "name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "assignment_ids": [
+            18760000001387010,
+            18760000001387028,
+            18760000001387029,
+            18760000001387030,
+            18760000001387025,
+            18760000001387020,
+            18760000001387021
+        ],
+        "grade_values": [
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            5.0,
+            0
+        ]
+    },
+    "18760000000212717": {
+        "name": "2024SP_PHIL_210-3_SEC66 History of Philosophy - Early Modern",
+        "assignment_ids": [],
+        "grade_values": []
+    }
+}
